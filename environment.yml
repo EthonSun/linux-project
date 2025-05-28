@@ -1,0 +1,11 @@
+name: linux-project
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - snakemake
+  - fastqc
+  - multiqc
+  - bwa
+  - samtools
+  - pandas
